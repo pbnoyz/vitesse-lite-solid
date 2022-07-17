@@ -1,6 +1,6 @@
 export default function Hi() {
   const navigate = useNavigate()
-  const { name } = useParams<{name: string}>()
+  const { name } = useParams<{ name: string }>()
 
   const [t] = useI18n()
 

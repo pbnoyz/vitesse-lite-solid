@@ -1,5 +1,5 @@
-import { ParentComponent } from 'solid-js'
-import { createI18nContext, I18nContext } from '@solid-primitives/i18n'
+import type { ParentComponent } from 'solid-js'
+import { I18nContext, createI18nContext } from '@solid-primitives/i18n'
 
 export const I18nProvider: ParentComponent<{
   dict?: Record<string, Record<string, any>>

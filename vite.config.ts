@@ -30,7 +30,7 @@ export default defineConfig({
       imports: [
         'solid-js',
         'solid-app-router',
-        { '@solid-primitives/i18n': ['useI18n'] }
+        { '@solid-primitives/i18n': ['useI18n'] },
       ],
       dts: 'src/auto-imports.d.ts',
       dirs: [

@@ -52,7 +52,7 @@
 ### Plugins
 
 - [`vite-plugin-pages`](https://github.com/hannoeru/vite-plugin-pages) - file system based routing
-- [`unplugin-auto-import`](https://github.com/antfu/unplugin-auto-import) - Directly use react/react-router-dom API and others without importing
+- [`unplugin-auto-import`](https://github.com/antfu/unplugin-auto-import) - Directly use solid-js/solid-app-router API and others without importing
 - [`solid-primitives`](https://github.com/solidjs-community/solid-primitives) - High-quality, community contributed Solid primitives
 
 ## Try it now!

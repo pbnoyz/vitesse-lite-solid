@@ -52,8 +52,8 @@
 ### 插件
 
 - [`vite-plugin-pages`](https://github.com/hannoeru/vite-plugin-pages) - 以文件系统为基础的路由
-- [`unplugin-auto-import`](https://github.com/antfu/unplugin-auto-import) - 直接使用 Composition API 等，无需导入
-- [`solid-primitives`](https://github.com/solidjs-community/solid-primitives) - High-quality, community contributed Solid primitives
+- [`unplugin-auto-import`](https://github.com/antfu/unplugin-auto-import) - 直接使用 solid-js api 等，无需导入
+- [`solid-primitives`](https://github.com/solidjs-community/solid-primitives) - 高质量 Solid 原语
 
 
 ## 现在可以试试!
